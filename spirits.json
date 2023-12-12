@@ -1,0 +1,367 @@
+[
+ {
+  	"id": 1,
+  	"name": "aurora",
+  	"season": "spring",
+  	"behavior": "regular",
+  	"size": "small",
+  	"likes": "spicy rice cakes",
+  	"found": "stalker photo quest"
+ },
+ {
+	"id": 2,
+  	"name": "aurum",
+  	"season": "fall",
+  	"behavior": "regular",
+  	"size": "small",
+  	"likes": "spicy kimchi stew",
+  	"found": "following the tutorial"
+ },
+ {
+	"id": 3,
+  	"name": "avanis",
+  	"season": "summer",
+  	"behavior": "regular",
+  	"size": "large",
+  	"likes": "sushi",
+  	"found": "completing the summer shrine"
+ },
+ {
+	"id": 4,
+  	"name": "bantushi",
+  	"season": "winter",
+  	"behavior": "swimmer",
+  	"size": "medium",
+  	"likes": "pulled pork sandwich",
+  	"found": "snowman snowfight quest"
+ },
+{
+	"id": 5,
+  	"name": "borzo",
+  	"season": "fall",
+  	"behavior": "regular",
+  	"size": "small",
+  	"likes": "hamburger",
+  	"found": "vandalized boat quest"
+ },
+{
+	"id": 6,
+  	"name": "chiropi",
+  	"season": "fall",
+  	"behavior": "regular",
+  	"size": "medium",
+  	"likes": "carrot cake",
+  	"found": "reanimated skeleton model quest"
+ },
+{
+	"id": 7,
+  	"name": "coronis",
+  	"season": "summer",
+  	"behavior": "regular",
+  	"size": "large",
+  	"likes": "carrot kimbap",
+  	"found": "crazy crows quest"
+ },
+{
+	"id": 8,
+  	"name": "corvink",
+  	"season": "fall",
+  	"behavior": "swimmer",
+  	"size": "small",
+  	"likes": "fried rice",
+  	"found": "cursed painting quest"
+ },
+{
+	"id": 9,
+  	"name": "dolmori",
+  	"season": "summer",
+  	"behavior": "regular",
+  	"size": "medium",
+  	"likes": "soy chicken",
+  	"found": "vandalized boat quest"
+ },
+{
+	"id": 10,
+  	"name": "fatherhog",
+  	"season": "spring",
+  	"behavior": "regular",
+  	"size": "small",
+  	"likes": "hamburger",
+  	"found": "following the tutorial"
+ },
+{
+	"id": 11,
+  	"name": "fenias",
+  	"season": "spring",
+  	"behavior": "regular",
+  	"size": "medium",
+  	"likes": "julian´s family recipe",
+  	"found": "fix a shrine quest"
+ },
+{
+	"id": 12,
+  	"name": "flitt",
+  	"season": "winter",
+  	"behavior": "regular",
+  	"size": "small",
+  	"likes": "light, plain cake",
+  	"found": "completing the winter shrine"
+ },
+{
+	"id": 13,
+  	"name": "fonuki",
+  	"season": "winter",
+  	"behavior": "regular",
+  	"size": "medium",
+  	"likes": "fried rice",
+  	"found": "phone thief quest"
+ },
+{
+	"id": 14,
+  	"name": "gorgo",
+  	"season": "summer",
+  	"behavior": "swimmer",
+  	"size": "small",
+  	"likes": "seaweed soup",
+  	"found": "water shooting sandcastle quest"
+ },
+{
+	"id": 15,
+  	"name": "heck, geckit, froke",
+  	"season": "summer",
+  	"behavior": "brancher",
+  	"size": "medium",
+  	"likes": "kimbap",
+  	"found": "baby momo abducted quest"
+ },
+{
+	"id": 16,
+  	"name": "hibernus",
+  	"season": "winter",
+  	"behavior": "lord",
+  	"size": "lord",
+  	"likes": "ice cream",
+  	"found": "encountered in their respective season"
+ },
+{
+	"id": 17,
+  	"name": "hobin",
+  	"season": "fall",
+  	"behavior": "regular",
+  	"size": "small",
+  	"likes": "money, fried rice",
+  	"found": "player money thief quest"
+ },
+{
+	"id": 18,
+  	"name": "jookyoo",
+  	"season": "summer",
+  	"behavior": "sludger",
+  	"size": "small",
+  	"likes": "takoyaki",
+  	"found": "karaoke vomit quest"
+ },
+{
+	"id": 19,
+  	"name": "juso",
+  	"season": "spring",
+  	"behavior": "regular",
+  	"size": "medium",
+  	"likes": "plain cake",
+  	"found": "completing the spring shrine"
+ },
+{
+	"id": 20,
+  	"name": "kurkapi",
+  	"season": "summer",
+  	"behavior": "singer",
+  	"size": "medium",
+  	"likes": "mixed vegetable pizza",
+  	"found": "temple bell quest"
+ },
+{
+	"id": 21,
+  	"name": "larrick",
+  	"season": "summer",
+  	"behavior": "regular",
+  	"size": "small",
+  	"likes": "julian´s family recipe",
+  	"found": "fae tools thief quest"
+ },
+{
+	"id": 22,
+  	"name": "lunariss",
+  	"season": "fall",
+  	"behavior": "regular",
+  	"size": "medium",
+  	"likes": "soy flavoured deep fried squid",
+  	"found": "completing the fall shrine"
+ },
+{
+	"id": 23,
+  	"name": "mariko",
+  	"season": "spring",
+  	"behavior": "regular",
+  	"size": "small",
+  	"likes": "fried chicken",
+  	"found": "sujin dippelganger quest"
+ },
+{
+	"id": 24,
+  	"name": "morinoba",
+  	"season": "spring",
+  	"behavior": "regular",
+  	"size": "large",
+  	"likes": "forests/wood, mixed vegetables, eggs and rice",
+  	"found": "haunted bathtub quest"
+ },
+{
+	"id": 25,
+  	"name": "meowshroom",
+  	"season": "spring",
+  	"behavior": "regular",
+  	"size": "small",
+  	"likes": "ramen",
+  	"found": "wild boar quest"
+ },
+{
+	"id": 26,
+  	"name": "mujina",
+  	"season": "fall",
+  	"behavior": "regular",
+  	"size": "small",
+  	"likes": "seaweed soup",
+  	"found": "tanuki transformation quest"
+ },
+{
+	"id": 27,
+  	"name": "muwo",
+  	"season": "fall",
+  	"behavior": "blocker",
+  	"size": "small",
+  	"likes": "ramen",
+  	"found": "poobird quest"
+ },
+{
+	"id": 28,
+  	"name": "nanashi",
+  	"season": "winter",
+  	"behavior": "regular",
+  	"size": "small",
+  	"likes": "spaghetti",
+  	"found": "school horror game quest"
+ },
+{
+	"id": 29,
+  	"name": "naos",
+  	"season": "fall",
+  	"behavior": "regular",
+  	"size": "medium",
+  	"likes": "takoyaki",
+  	"found": "find the statue game quest"
+ },
+{
+	"id": 30,
+  	"name": "nimboars",
+  	"season": "winter",
+  	"behavior": "regular",
+  	"size": "medium",
+  	"likes": "shrimp salad",
+  	"found": "forgetful amelia quest"
+ },
+{
+	"id": 31,
+  	"name": "ochress",
+  	"season": "fall",
+  	"behavior": "lord",
+  	"size": "lord",
+  	"likes": "bitter salas",
+  	"found": "encountered in their respective season"
+ },
+{
+	"id": 32,
+  	"name": "onishi",
+  	"season": "winter",
+  	"behavior": "sludger",
+  	"size": "large",
+  	"likes": "crimson shrimp soup",
+  	"found": "textbox quest"
+ },
+{
+	"id": 33,
+  	"name": "panthermas",
+  	"season": "summer",
+  	"behavior": "lord",
+  	"size": "lord",
+  	"likes": "spicy kimchi stew",
+  	"found": "encountered in their respective season"
+ },
+{
+	"id": 34,
+  	"name": "ribbard",
+  	"season": "fall",
+  	"behavior": "singer",
+  	"size": "small",
+  	"likes": "music, mixed vegetable pizza",
+  	"found": "karaoke vomit quest"
+ },
+{
+	"id": 35,
+  	"name": "ruko",
+  	"season": "fall",
+  	"behavior": "regular",
+  	"size": "small",
+  	"likes": "lemonade",
+  	"found": "secret shop quest"
+ },
+{
+	"id": 36,
+  	"name": "tikan",
+  	"season": "winter",
+  	"behavior": "blocker",
+  	"size": "small",
+  	"likes": "soy chicken",
+  	"found": "snowmen snowfight quest"
+ },
+{
+	"id": 37,
+  	"name": "umakiki",
+  	"season": "winter",
+  	"behavior": "brancher",
+  	"size": "large",
+  	"likes": "shrimp salad",
+  	"found": "ghost bus quest"
+ },
+{
+	"id": 38,
+  	"name": "upo",
+  	"season": "spring",
+  	"behavior": "regular",
+  	"size": "small",
+  	"likes": "carrot cake",
+  	"found": "vegetable thief quest"
+ },
+{
+	"id": 39,
+  	"name": "vulpish",
+  	"season": "spring",
+  	"behavior": "lord",
+  	"size": "lord",
+  	"likes": "pulled pork sandwich",
+  	"found": "encountered in their respective season"
+ },
+{
+	"id": 40,
+  	"name": "wasajiji",
+  	"season": "winter",
+  	"behavior": "regular",
+  	"size": "small",
+  	"likes": "sushi",
+  	"found": "spicy soup craving quest"
+ }
+
+
+]
+
+
+
